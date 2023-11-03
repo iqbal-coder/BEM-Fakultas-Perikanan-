@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>BEM-Faperik Upatma: Blog Resmi Badan Eksekutif Mahasiswa Fakultas Perikanan Universitas 45 Mataram</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>BEM-Faperik Upatma</h1>
+    <h2>Blog Resmi Badan Eksekutif Mahasiswa Fakultas Perikanan Universitas 45 Mataram</h2>
+  </header>
+
+  <main>
+
+    <section class="beranda">
+      <h3>Informasi Terbaru</h3>
+      <article>
+        <h4>Kegiatan</h4>
+        <p>BEM-Faperik Upatma akan mengadakan kegiatan webinar tentang "Pengembangan Industri Perikanan di Indonesia" pada tanggal 20 Juli 2023. Webinar ini akan menghadirkan pembicara dari Kementerian Kelautan dan Perikanan.</p>
+      </article>
+      <article>
+        <h4>Program Kerja</h4>
+        <p>BEM-Faperik Upatma telah meluncurkan program kerja baru di bidang kesejahteraan mahasiswa, yaitu penyediaan beasiswa untuk mahasiswa yang berprestasi.</p>
+      </article>
+      <article>
+        <h4>Berita</h4>
+        <p>Mahasiswa Fakultas Perikanan Upatma berhasil meraih juara 1 dalam lomba perikanan tingkat nasional.</p>
+      </article>
+    </section>
+
+    <section class="tentang">
+      <h3>Tentang BEM-Faperik Upatma</h3>
+      <p>BEM-Faperik Upatma adalah organisasi kemahasiswaan yang mewakili seluruh mahasiswa Fakultas Perikanan Universitas Padjadjaran. BEM-FP Unpad memiliki tujuan untuk meningkatkan kualitas akademik, pengembangan minat dan bakat, serta kesejahteraan mahasiswa.</p>
+      <p>BEM-Faperik Upatma memiliki struktur organisasi yang terdiri dari Presiden BEM, Wakil Presiden BEM, Sekretaris Jenderal, Bendahara Umum, dan Departemen-departemen. Departemen-departemen BEM-FP Unpad terdiri dari Departemen Akademik, Departemen Minat dan Bakat, Departemen Kesejahteraan Mahasiswa, dan Departemen Pengabdian Masyarakat.</p>
+    </section>
+
+    <section class="kegiatan">
+      <h3>Kegiatan</h3>
+      <ul>
+        <li>Kegiatan rutin, seperti rapat, diskusi, dan pelatihan.</li>
+        <li>Kegiatan tahunan, seperti Dies Natalis Fakultas Perikanan, Pekan Perikanan, dan Pemilihan Raya BEM-Faperik Upatma.</li>
+        <li>Kegiatan khusus, seperti bakti sosial, seminar, dan workshop.</li>
+      </ul>
+    </section>
+
+    <section class="program-kerja">
+      <h3>Program Kerja</h3>
+      <ul>
+        <li>Program kerja bidang kemahasiswaan, seperti peningkatan kualitas akademik, pengembangan minat dan bakat, dan pembinaan organisasi kemahasiswaan.</li>
+        <li>Program kerja bidang kesejahteraan mahasiswa, seperti penyediaan beasiswa, fasilitas olahraga, dan fasilitas kesehatan.</li>
+        <li>Program kerja bidang pengabdian masyarakat, seperti penyuluhan perikanan, bakti sosial, dan penelitian.</li>
+      </ul>
+    </section>
+
+    <section class="berita">
+      <h3>Berita</h3>
+      <ul>
+        <li>Prestasi yang diraih oleh mahasiswa Fakultas Perikanan.</li>
+        <li>Kegiatan yang diselenggarakan oleh fakultas atau universitas.</li>
+        <li>Isu-isu terkini yang berkaitan dengan Fakultas Perikanan.</li>
+      </ul>
+    </section>
+
+    <section class="hubungi-kami">
+      <h3>Hubungi Kami</h3>
+      <p>BEM-Faperik Upatma
+        <br>Fakultas Perikanan
+        <br>Universitas 45 Mataram 
+        <br>Jl. Imam Bonjol No.45, Cakranegara Utara, Kec. Cakranegara
+        <br>Indonesia
+        <br>Kota Mataram, Nusa Tenggara Bar. 83239
+        <br>Telp: (022) 7794070
+        <br>Email: faperikbem@gmail.com
+        <br>Instagram: @bem_faperik
